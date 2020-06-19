@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Wygrany\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Wygrany\\.nuget\\packages"
+    ]
+  }
+}
