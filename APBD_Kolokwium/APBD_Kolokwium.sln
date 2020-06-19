@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APBD_Kolokwium", "APBD_Kolokwium.csproj", "{BA8965DB-9CEC-4754-BBB7-2983AA3DC83B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA8965DB-9CEC-4754-BBB7-2983AA3DC83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8965DB-9CEC-4754-BBB7-2983AA3DC83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8965DB-9CEC-4754-BBB7-2983AA3DC83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8965DB-9CEC-4754-BBB7-2983AA3DC83B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F09E223A-23FB-46C7-BF22-C9036A49C38E}
+	EndGlobalSection
+EndGlobal
