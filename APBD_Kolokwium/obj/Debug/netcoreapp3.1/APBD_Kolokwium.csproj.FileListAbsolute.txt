@@ -86,9 +86,15 @@ C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kol
 C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\obj\Debug\netcoreapp3.1\APBD_Kolokwium.csprojAssemblyReference.cache
-C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\obj\Debug\netcoreapp3.1\APBD_Kolokwium.csproj.CoreCompileInputs.cache
-C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\obj\Debug\netcoreapp3.1\APBD_Kolokwium.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\obj\Debug\netcoreapp3.1\APBD_Kolokwium.csproj.CopyComplete
 C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\obj\Debug\netcoreapp3.1\APBD_Kolokwium.dll
 C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\obj\Debug\netcoreapp3.1\APBD_Kolokwium.pdb
 C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\obj\Debug\netcoreapp3.1\APBD_Kolokwium.genruntimeconfig.cache
+C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\obj\Debug\netcoreapp3.1\APBD_Kolokwium.csproj.CoreCompileInputs.cache
+C:\Users\Wygrany\Desktop\Krzyś\PJWSTK\VI semestr\APBD\Kolokwium moje 1\APBD_kolokwium\APBD_Kolokwium\obj\Debug\netcoreapp3.1\APBD_Kolokwium.MvcApplicationPartsAssemblyInfo.cache

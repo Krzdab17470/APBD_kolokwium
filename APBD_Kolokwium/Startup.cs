@@ -35,6 +35,8 @@ namespace APBD_Kolokwium
                 app.UseDeveloperExceptionPage();
             }
 
+            //app.UseHttpsRedirection();
+
             app.UseRouting();
 
             app.UseAuthorization();
