@@ -10,10 +10,10 @@ namespace APBD_Kolokwium.Services
     //INTERFACE
     public interface IApplicationDbService
     {
-        Enrollment2 EnrollStudent(EnrollStudentRequest2 request);
+        ChampionshipTeam getChampionshipTeams(int idChampionship);
 
-        Enrollment2 PromoteStudents(int semester, string studies);
+        PlayerTeam AddPlayerToTeam(AddPlayerToTeamRequest request);
 
-        string GetStudents(int IdEnrollment);
+
     }
 }
