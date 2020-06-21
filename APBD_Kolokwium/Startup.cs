@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using APBD_Kolokwium.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -24,6 +25,7 @@ namespace APBD_Kolokwium
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddTransient < IApplicationDbService, SqlServerDbService > (); //zarejestrowanie zale¿noœci w Startup
             services.AddControllers();
         }
 
@@ -35,7 +37,7 @@ namespace APBD_Kolokwium
                 app.UseDeveloperExceptionPage();
             }
 
-            //app.UseHttpsRedirection();
+            app.UseHttpsRedirection(); //dodane
 
             app.UseRouting();
 
