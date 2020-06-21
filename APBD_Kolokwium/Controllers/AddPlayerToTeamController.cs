@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using APBD_Kolokwium.Models;
 using APBD_Kolokwium.Requests;
+using APBD_Kolokwium.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -14,11 +15,20 @@ namespace APBD_Kolokwium.Controllers
     [ApiController]
     public class AddPlayerToTeamController : ControllerBase
     {
+        private IApplicationDbService _service;
 
+        public AddPlayerToTeamController(IApplicationDbService service)
+        {
+            _service = service;
+        }
+
+        [HttpPost]
         public IActionResult GetChampionshipTeams(AddPlayerToTeamRequest request)
         {
+            return Ok(_service.AddPlayerToTeam(request));
 
-            var playerTeam = new PlayerTeam();
+            //Stara wersja:
+            /*var playerTeam = new PlayerTeam();
             playerTeam.IdPlayer = request.idTeam;
             playerTeam.IdTeam = request.idTeam;
             playerTeam.NumOnShirt = request.numOnShirt;
@@ -98,7 +108,7 @@ namespace APBD_Kolokwium.Controllers
                 }
 
                 return Ok("Gracz dodany do druzyny.");
-            }
+            }*/
                 
             
         }
